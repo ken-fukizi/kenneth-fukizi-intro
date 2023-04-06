@@ -1,5 +1,4 @@
-# kenneth-fukizi-intro
-Personal Bio
+# kenneth-fukizi-introduction
 
 
 ### Good day, I'm Kenneth Fukizi! 👋 
@@ -12,10 +11,11 @@ Personal Bio
 
 ## **I'm a Software Engineer and architect, passionate about Africa's authentic capacity in tech.**
 
-- 🎯 **I’m currently working on**: Mastering the intricacies of advanced software architectures.
+- 🎯 **I’m currently working on**: Mastering advanced software architectures.
 - 💬 **Ask me about**: Software Architecture, Design Patterns, Enterprise Architecture, DDD, .NET, CQRS, RESTful APIs, SQL and NoSQL Databases, CI/CD /w Github Actions.
-- 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
+- 📫 **How to reach me**: Connect with me on LinkedIn! 👆
 - ⚡ **Fun fact**: I love 📚, 🏀 and lots of ☕.
+
 
 <hr/>
 
