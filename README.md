@@ -1,7 +1,50 @@
 # Kenneth-Fukizi-introduction
 
 
-I have over 18 years in Information Technology related services, 10 years of which has been committed to commercial software development through world class Independent Software Vendors and development houses with experience throughout all the stages of the formal System Development Life Cycle, agile practices and DevOps.
+Software Development Engineer/ Architect/ Manager with 10+ years of hands-on experience in building enterprise-grade software.
+
+I am a highly skilled and experienced software development professional with a proven track record of success in leading and delivering complex projects on time and within budget. I have a deep understanding of software development architectures, methodologies, and best practices, and I am proficient in a variety of programming languages and technologies.
+
+I am passionate about building high-quality software that solves real-world problems. I am also a strong leader and communicator, and I am able to motivate and inspire teams to achieve their goals.
+
+I am also an active member of the software development community. I have authored a book on ASP.Net Core 3, among other books, and I am a frequent speaker at industry conferences. I am also a Microsoft Certified Trainer, a professional member of the Association of Computing Machinery, and a member of the F# Foundation.
+I am a renowned technical reviewer for over 12 software development book projects, and counting, with Apress LLC USA, and in that way, I am privileged to stay up to date with the latest software development tech stacks and trends.
+
+I have been part of the bespoke technology behind some of the biggest corporate institutions including BNP Paribas Personal Finance, Toyota Motor Corporation, Old Mutual, Sanlam, and Standard Bank among others.
+
+If you are looking for a highly skilled and experienced software development engineer/ architect/ manager who can deliver results, I encourage you to contact me through e-mail at ken.fukizi@gmail.com
+
+Herewith are some of my proven leadership and management practical experiences:
+
+Head of IT: Toyota Motor Corporation (in Malawi)
+
+Lecturer in Programming: University of Greenwich (U.K.)
+
+Co-Founder: AfrikanCoder LLC  Inc (USA)
+
+
+Leadership and management training formally acquired:
+
+Management trainee: Toyota Motor Corporation  2006 - 2008:
+● 2 years long practical training for leadership and management by Toyota Tsusho Africa’s center of excellence in Johannesburg, South Africa.
+
+Master's degree in Financial Management: 2010 - 2013
+
+Semester I:
+● Quantitative analysis in Management
+● Organization Theory and Management
+
+Semester II:
+● Management Information Systems
+● Market Research and report preparation
+● Operations Management
+
+Semester III:
+● Strategic Management
+● Project Planning Appraisal and Control
+
+Semester IV:
+● Management in action-Social Economic and ethical issues
 
 **Published books that I have been part of**:
 - *Author* : Technical Guide In Software Development: A step-by-step technical skills & comprehensive guide to become a world-class software developer. AfrikanCoder Inc. Publishing.
